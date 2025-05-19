@@ -2,4 +2,4 @@ A_test
 Main Update
 
 main_change.2
-A_branch change_update
+A_branch change_update - main update
