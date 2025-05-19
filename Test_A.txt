@@ -2,5 +2,4 @@ A_test
 Main Update
 
 main_change.2
-//new code adjustment
 A_branch change_update_1
